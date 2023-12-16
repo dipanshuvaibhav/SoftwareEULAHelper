@@ -1,8 +1,10 @@
 
-
 ![Logo](https://lh3.googleusercontent.com/drive-viewer/AEYmBYSudQCEOTOSoIlbrXO9yzdUMFbNyokeMH-PAvJB_4B6WEc8cTw9QZviDawQACVHNruZ0UF3EKfcmCtxSFk02h9X_0DKNA=s1600)
 
 
+## Authors
+
+- [@dipanshuvaibhav](https://www.https://github.com/dipanshuvaibhav/)
 # SoftwareEULAHelper
 
 An AI chatbot that helps you understand Software EULAs before you agree to them.
@@ -29,9 +31,6 @@ function App() {
 ```
 
 
-## Authors
-
-- [@dipanshuvaibhav](https://www.https://github.com/dipanshuvaibhav/)
 ## Badges
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
